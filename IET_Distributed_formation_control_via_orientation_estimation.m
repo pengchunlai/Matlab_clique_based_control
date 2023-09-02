@@ -1,6 +1,6 @@
 clear;clc;
 
-iteration=500;%iteration number
+iteration=500;% this is iteration number 
 % %%----5 agents----%%
 %     clique=[1 2 3;2 3 4;2 4 5];%each column represents each clique
 %     n=max(clique(:));%number of robots
